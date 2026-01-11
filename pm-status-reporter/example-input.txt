@@ -1,0 +1,53 @@
+hey everyone, quick standup notes from this week:
+
+MONDAY:
+- jen started working on the payment gateway integration
+- design team presented 3 options to stakeholders, they loved option B
+- QA found a critical bug in checkout flow, assigned to alex
+
+TUESDAY:
+- alex fixed the checkout bug and pushed to staging
+- we finally got access to the production environment!! only took IT 2 weeks lol
+- payment gateway integration is harder than expected, stripe api docs are confusing
+- client called - they want to move launch date UP to nov 1st instead of nov 15th 😬
+
+WEDNESDAY:
+- emergency meeting about the new timeline... not looking good tbh
+- jen still stuck on payment gateway, might need to bring in a contractor
+- ran load testing - system crashed at 500 concurrent users, need to scale infrastructure
+- marketing team already promoting nov 1st launch on social media (nobody told them we havent agreed to it yet)
+
+THURSDAY:
+- performance team investigating the load testing failures
+- legal still hasnt approved the privacy policy updates, holding up EU launch
+- tried to reach out to stripe support, ticket opened but no response yet
+- team morale is pretty low after the timeline discussion
+
+FRIDAY:
+- GOOD NEWS: alex found the performance bottleneck! was a database index issue, fixed now
+- retested with 2000 concurrent users - passed!!
+- jen made progress on payments but still not done, maybe 60% complete
+- scheduled contractor interview for monday to help with payment integration
+- budget meeting got cancelled, rescheduled for next friday
+- oh and our devops engineer sara is going on vacation next week for 10 days... perfect timing 🙄
+
+OTHER STUFF:
+- need to set up monitoring and alerting before launch
+- documentation is way behind
+- nobody has tested the mobile responsive design yet
+- the CEO keeps asking for demos but we dont have a stable build to show
+
+CONCERNS:
+- nov 1st date seems impossible with payment gateway incomplete
+- losing sara for 10 days is gonna hurt
+- legal approval usually takes 3-4 weeks, we only have 2 weeks until "launch"
+- contractor might need ramp-up time
+- marketing already promoting a date we havent committed to
+- budget meeting delay means we cant approve contractor spend yet
+
+NEXT WEEK:
+- finish payment integration (jen + contractor hopefully)
+- complete mobile testing
+- get legal approval on privacy policy
+- set up production monitoring
+- pray everything works 🙏

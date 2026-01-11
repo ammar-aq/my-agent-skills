@@ -1,0 +1,14 @@
+Extract Your Human Job Into Skills
+Class 9
+AI-300
+Due Date: Jan 11, 2026
+
+Project Description:
+Turn what you already do into 3–5 focused, reusable agent skills.
+Checkpoint A1 is about turning your real work into usable agent skills. Start by describing what you actually do each day or week to Claude Code. From this, identify repeatable tasks and build 3 to 5 small, focused agent skills. Each skill should do one clear thing, be measurable, and noticeably save time.
+
+Deliverables:
+- 3–5 skills (Claude Code / General Agent)
+- A short README.md describing what each skill replaces
+- One 60–90 second demo (screen recording)
+- Success Signal: At least one skill replaces a manual task for you this week.
